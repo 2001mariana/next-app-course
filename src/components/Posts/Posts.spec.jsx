@@ -1,5 +1,7 @@
+/* eslint-disable no-undef */
 import { render, screen } from '@testing-library/react';
-import { Posts } from '.';
+
+import { Posts } from './Posts';
 
 const props = {
   posts: [

@@ -1,4 +1,6 @@
+/* eslint-disable no-undef */
 import { render, screen } from '@testing-library/react';
+
 import { PostCard } from '.';
 import { postCardPropsMock } from './mock';
 
